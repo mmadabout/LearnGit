@@ -1,6 +1,0 @@
-"line from terminal" 
-"line from github" 
-"Git is awesome."
-"third line" 
-"before stash" 
-"after stash" 
